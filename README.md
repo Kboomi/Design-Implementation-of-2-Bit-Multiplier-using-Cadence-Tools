@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![387754702-1d37d7bd-b933-4481-9bc6-0e9358bf3a84](https://github.com/user-attachments/assets/49fea1f7-59d0-4c72-892f-bd35c91c50b2)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -79,8 +80,9 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
+![387754964-b435110d-8e03-4e8d-bbb9-61720f77021c](https://github.com/user-attachments/assets/2a60c5e5-a910-45bd-aefc-5955bd4bd193)
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+
 
  
 
@@ -94,17 +96,17 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+![387755062-419437f6-7fff-4d01-bcd3-d5da3ef96274](https://github.com/user-attachments/assets/3a3216d6-7a82-4861-b99a-2c70c3db96dd)
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![387755146-2d9da2d8-8d2b-4697-855f-8240af049a1a](https://github.com/user-attachments/assets/e2cb9507-f118-4b24-a78d-4851fbd57cef)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![387755264-d55b10ce-cd61-413e-bb5c-75e3a3d91f40](https://github.com/user-attachments/assets/1fcd1505-1a4b-4c27-832a-ccbf5b6df916)
 
-  
 
 Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
